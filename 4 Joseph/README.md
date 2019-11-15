@@ -1,0 +1,4 @@
+- Report written for the prof
+- Conclusions drawn
+- Evidence to back it up
+- Integration of all the analytical work done
