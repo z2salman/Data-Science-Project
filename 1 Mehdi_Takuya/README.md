@@ -1,5 +1,9 @@
 -What is the dataset about?
+
 -Why we picked it?
+
 -Introduction diagrams
+
 -Car makes and models+(Visualized logos)
+
 -Basic info on the sample we have
