@@ -1,0 +1,4 @@
+- Model 1: Use linear regression
+- Model 2: Use K-means/Random forest
+- Compare and contrast
+- Run on a Kijjiji example
