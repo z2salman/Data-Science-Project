@@ -18,7 +18,8 @@ Categorical
 
 
 Numeric
-9.   Number of Doors – Doors of a car
+
+9.  Number of Doors – Doors of a car
 10. Engine HP – Engine Horsepower
 11. Engine Cylinders - Number of cylinders
 12. Popularity – Indicates the popularity of the car brand
