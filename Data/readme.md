@@ -6,7 +6,7 @@ Contains the data for the car dataset:
 
 
 
-Categorical
+## Categorical
 1.	Make – Car make
 2.	Model – Car model
 3.	Market Category – Market the car is targeted towards
@@ -17,7 +17,7 @@ Categorical
 8.	Driven Wheels – Front vs Rear vs AWD
 
 
-Numeric
+## Numeric
 
 9.  Number of Doors – Doors of a car
 10. Engine HP – Engine Horsepower
